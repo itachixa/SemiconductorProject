@@ -41,7 +41,7 @@ The Arduino sketch is located in <a href="LDRCode.ino" target="_blank">LDRCode.i
 
 ## 👤 Author
 
-Made with 💡 by [@Mael-12](https://github.com/Mael-12)
+Made with [@Mael-12](https://github.com/Mael-12)
 
 ---
 
