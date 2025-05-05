@@ -34,7 +34,7 @@ This eco-friendly and cost-effective solution is ideal for **sustainable off-gri
 
 ## 📁 Arduino Code
 
-The Arduino sketch is located in the [`LDRCode.ino`](./arduino_code) directory of this repository.  
+The Arduino sketch is located in <a href="LDRCode.ino" target="_blank"></a> the  directory of this repository.  
 > 📌 File extension: `.ino`
 
 ---
